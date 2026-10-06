@@ -54,7 +54,7 @@ Raw data joined and combined using SQL. Code for it can be found [here](https://
 
 Across about 116,000 manager-quarter observations, about 2 in 5 involved a change of more than 5% in the Apple shares held. Among those changers, buyers and sellers were close to evenly split.
 
-Changes in large managers’ Apple holdings are most closely associated with the manager’s own characteristics and tendencies, rather than the economic or Apple’s performance.
+Changes in large manager's Apple holdings are most closely associated with the manager’s own characteristics and tendencies, rather than the economic or Apple’s performance.
 
 - **Manager habits matter most.** Managers with a larger share of Apple in their portfolio were less likely to change their position and more likely to sell when they did. Managers who trade heavily in general were more likely to change their Apple holdings, and when they did, they were more often more likely to buy.
 - **Macro conditions had small effects.** In the data set’s training years, a higher VIX (market fear factor) was associated with more changes, and a higher inflation with fewer changes in the manager’s portfolios. But these effects were much lower when put in the data’s test years.
