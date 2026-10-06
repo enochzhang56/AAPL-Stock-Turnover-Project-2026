@@ -65,6 +65,6 @@ Changes in large manager's Apple holdings are most closely associated with the m
 
 # Recommendations
 
-- **Treat changes in large managers’ Apple holdings as mostly routine portfolio management.** The largest pattern that the models showed was rebalancing of assets: managers with large Apple positions tended to trim, while managers with smaller Apple positions tended to add.
+- **Treat changes in large manager's Apple holdings as mostly routine portfolio management.** The largest pattern that the models showed was rebalancing of assets: managers with large Apple positions tended to trim, while managers with smaller Apple positions tended to add.
 - **Look at the specific manager before reading into their move.** A manager’s Apple weight and general trading activity explain their change in asset, rather than other explanatory factors.
 - **Do not expect the economy or Apple’s performance to explain any movement.** All models show that these factors play a very limited role in whether larger managers buy or sell at all.
